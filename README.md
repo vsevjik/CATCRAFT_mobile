@@ -1,8 +1,8 @@
 # CATCRAFT mobile Launcher 
 Разработчик @catlergememe
-#
-Помощник @vsevj
 
+Помощник @vsevj
+#
 В разработке!
 
 Лаунчер на основе PojavLauncher, с функциями CATCRAFT
