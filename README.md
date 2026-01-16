@@ -1,4 +1,6 @@
 # CATCRAFT mobile Launcher 
+Разработчик @catlergememe
+Помощник @vsevj
 
 В разработке!
 
